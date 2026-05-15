@@ -36,11 +36,17 @@ The application allows users to:
 # Project Architecture
 
 React Frontend
+
 ↓
+
 FastAPI Backend
+
 ↓
+
 ML Model and Scaling Object
+
 ↓
+
 SQLite Database
 
 The frontend communicates with the backend using APIs.
